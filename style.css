@@ -1,0 +1,11 @@
+body {
+    background-color: #444;
+    color: white;
+}
+#contents {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+#contents p {
+    font-weight: bold;
+}

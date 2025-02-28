@@ -1,11 +1,26 @@
+html {
+    font-size: 25px;
+}
+
 body {
     background-color: #444;
     color: white;
+    margin: 0 auto;
 }
 #contents {
-    max-width: 1200px;
     margin: 0 auto;
+    padding-left: 40px;
 }
 #contents p {
     font-weight: bold;
+    border: solid 2px darkolivegreen;
+    width: fit-content;
+}
+#contents h1 {
+    border-bottom: solid 2px darkgoldenrod;
+    width: fit-content;
+}
+#contents h2 {
+    border-bottom: solid 2px darkcyan;
+    width: fit-content;
 }
